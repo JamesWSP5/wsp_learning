@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad9c1d7a-6afe-4926-877d-32eeb754a038" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/big_data/说明.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/说明.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/说明.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big_data/py/说明.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/big_data/scala/说明.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,12 +49,48 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scala/说明.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
                 <caret column="14" selection-start-column="14" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/书籍/说明.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/big_data/py/说明.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="14" selection-start-column="14" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/big_data/scala/说明.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="8" selection-start-column="8" selection-end-column="8" />
               </first_editor>
               <second_editor />
             </state>
@@ -74,6 +109,9 @@
         <option value="$PROJECT_DIR$/big_data/说明.md" />
         <option value="$PROJECT_DIR$/java/说明.md" />
         <option value="$PROJECT_DIR$/scala/说明.md" />
+        <option value="$PROJECT_DIR$/书籍/说明.md" />
+        <option value="$PROJECT_DIR$/big_data/scala/说明.md" />
+        <option value="$PROJECT_DIR$/big_data/py/说明.md" />
       </list>
     </option>
   </component>
@@ -103,12 +141,19 @@
             <path>
               <item name="jj_and_wsp_program" type="b2602c69:ProjectViewProjectNode" />
               <item name="jj_and_wsp_program" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="big_data" type="462c0819:PsiDirectoryNode" />
+              <item name="py" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jj_and_wsp_program" type="b2602c69:ProjectViewProjectNode" />
               <item name="jj_and_wsp_program" type="462c0819:PsiDirectoryNode" />
+              <item name="big_data" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jj_and_wsp_program" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jj_and_wsp_program" type="462c0819:PsiDirectoryNode" />
+              <item name="书籍" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,12 +192,12 @@
       <option name="presentableId" value="Default" />
       <updated>1568091933366</updated>
       <workItem from="1568091937500" duration="608000" />
-      <workItem from="1568112449343" duration="386000" />
+      <workItem from="1568112449343" duration="848000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="994000" />
+    <option name="totallyTimeSpent" value="1456000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -219,6 +264,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scala/说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="14" selection-start-column="14" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/书籍/说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big_data/scala/说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big_data/py/说明.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
