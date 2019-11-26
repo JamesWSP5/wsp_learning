@@ -1,3 +1,4 @@
+
 # 定以一个方法
 def func1():
     print('hello,world! python')
