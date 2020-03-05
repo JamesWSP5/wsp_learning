@@ -16,7 +16,7 @@ def test_01():
     spark_config.master("local")
     spark = spark_config.getOrCreate()
     spark.sparkContext.setLogLevel(log_level)
-    df = spark.read.csv("query-hive-1513.csv")
+    df = spark.read.csv("query-hive-1513.csv",header=True)
     df.replace(10, 0)
     df.rdd
     df_collect = df.collect
