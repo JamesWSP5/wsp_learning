@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d524f48-9e65-49a5-85a7-ef8af14cfe69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/day01_hello_world/data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day01_hello_world/data_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/source/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/source/out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_data_analysis/spark_pratice/day01/df01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_data_analysis/spark_pratice/day01/df01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,18 +145,34 @@
       <workItem from="1570629735245" duration="589000" />
       <workItem from="1582961656374" duration="4462000" />
       <workItem from="1582967495719" duration="2401000" />
-      <workItem from="1583384066728" duration="3017000" />
+      <workItem from="1583384066728" duration="3675000" />
     </task>
+    <task id="LOCAL-00001" summary="python练习">
+      <created>1583402733993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583402733993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="python练习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="686" y="161" key="#df01" timestamp="1582961674320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="686" y="161" key="#df01/0.0.1920.1040@0.0.1920.1040" timestamp="1582961674320" />
+    <state x="598" y="117" key="CommitChangelistDialog2" timestamp="1583402733277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583402733277" />
     <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1583402709284">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
