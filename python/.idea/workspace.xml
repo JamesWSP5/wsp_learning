@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d524f48-9e65-49a5-85a7-ef8af14cfe69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_basic/day01_hello_world/if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_basic/day02/dataStruct.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,29 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.if">
+  <component name="RunManager" selected="Python.dataStruct">
+    <configuration name="dataStruct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/day02/dataStruct.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="data_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,28 +111,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic/day01_hello_world" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/day01_hello_world/hello_world.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="if" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,12 +133,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="type_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/day02/type_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dataStruct" />
+        <item itemvalue="Python.type_test" />
         <item itemvalue="Python.if" />
         <item itemvalue="Python.data_type" />
         <item itemvalue="Python.df01" />
-        <item itemvalue="Python.hello_world" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +193,8 @@
       <workItem from="1582961656374" duration="4462000" />
       <workItem from="1582967495719" duration="2401000" />
       <workItem from="1583384066728" duration="3675000" />
-      <workItem from="1583484920325" duration="766000" />
+      <workItem from="1583484920325" duration="3066000" />
+      <workItem from="1583492639131" duration="2585000" />
     </task>
     <task id="LOCAL-00001" summary="python练习">
       <created>1583402733993</created>
@@ -179,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583402733993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="python第二天">
+      <created>1583485708653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583485708653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,41 +218,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="python练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="python练习" />
+    <MESSAGE value="python第二天" />
+    <option name="LAST_COMMIT_MESSAGE" value="python第二天" />
   </component>
   <component name="WindowStateProjectService">
     <state x="686" y="161" key="#df01" timestamp="1582961674320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="686" y="161" key="#df01/0.0.1920.1040@0.0.1920.1040" timestamp="1582961674320" />
-    <state x="598" y="117" key="CommitChangelistDialog2" timestamp="1583402733277">
+    <state x="598" y="117" key="CommitChangelistDialog2" timestamp="1583485708127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="598" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583402733277" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1583485694946">
+    <state x="598" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583485708127" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1583494627400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583485694946" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1583485694945">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583494627400" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1583494627400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583485694945" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1583485694945">
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583494627400" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1583494627400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583485694945" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1583485694946">
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583494627400" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1583494627400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583485694946" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583494627400" />
     <state x="463" y="166" key="SettingsEditor" timestamp="1582961686633">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582961686633" />
-    <state x="667" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582967505480">
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1583493342166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582967505480" />
+    <state x="667" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583493342166" />
     <state x="524" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583384572463">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -239,6 +271,8 @@
     <SUITE FILE_PATH="coverage/python$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1570462443764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day01_hello_world" />
     <SUITE FILE_PATH="coverage/python$data_type.coverage" NAME="data_type Coverage Results" MODIFIED="1583402691597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day01_hello_world" />
     <SUITE FILE_PATH="coverage/python$if.coverage" NAME="if Coverage Results" MODIFIED="1583485634287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day01_hello_world" />
+    <SUITE FILE_PATH="coverage/python$dataStruct.coverage" NAME="dataStruct Coverage Results" MODIFIED="1583494627390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day02" />
     <SUITE FILE_PATH="coverage/python$df01.coverage" NAME="df01 Coverage Results" MODIFIED="1582967282664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data_analysis/spark_pratice/day01" />
+    <SUITE FILE_PATH="coverage/python$type_test.coverage" NAME="type_test Coverage Results" MODIFIED="1583485755454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day02" />
   </component>
 </project>
