@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d524f48-9e65-49a5-85a7-ef8af14cfe69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/day02/dataStruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day02/dataStruct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/day02/endless_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day02/endless_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_basic/source/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/source/out.txt" afterDir="false" />
-    </list>
+    <list default="true" id="4d524f48-9e65-49a5-85a7-ef8af14cfe69" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +191,7 @@
       <workItem from="1582967495719" duration="2401000" />
       <workItem from="1583384066728" duration="3675000" />
       <workItem from="1583484920325" duration="3066000" />
-      <workItem from="1583492639131" duration="12541000" />
+      <workItem from="1583492639131" duration="12888000" />
     </task>
     <task id="LOCAL-00001" summary="python练习">
       <created>1583402733993</created>
@@ -232,22 +227,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583485708127" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1583747211701">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1583747659501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583747211701" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1583747211700">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583747659501" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1583747659500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583747211700" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1583747211700">
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583747659500" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1583747659500">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583747211700" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1583747211700">
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583747659500" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1583747659501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583747211700" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583747659501" />
     <state x="770" y="234" key="RollbackChangesDialog" timestamp="1583658273335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
