@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="4d524f48-9e65-49a5-85a7-ef8af14cfe69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/day02/dataStruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day02/dataStruct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/day02/endless_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/day02/endless_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic/source/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/python_basic/source/out.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="df01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="endless_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_data_analysis/spark_pratice/day01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_basic/day02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_data_analysis/spark_pratice/day01/df01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_basic/day02/endless_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,10 +160,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.dataStruct" />
+        <item itemvalue="Python.endless_loop" />
         <item itemvalue="Python.type_test" />
         <item itemvalue="Python.if" />
         <item itemvalue="Python.data_type" />
-        <item itemvalue="Python.df01" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +196,7 @@
       <workItem from="1582967495719" duration="2401000" />
       <workItem from="1583384066728" duration="3675000" />
       <workItem from="1583484920325" duration="3066000" />
-      <workItem from="1583492639131" duration="4422000" />
+      <workItem from="1583492639131" duration="12541000" />
     </task>
     <task id="LOCAL-00001" summary="python练习">
       <created>1583402733993</created>
@@ -229,22 +232,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583485708127" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1583658255888">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1583747211701">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583658255888" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1583658255887">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583747211701" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1583747211700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583658255887" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1583658255887">
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583747211700" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1583747211700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583658255887" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1583658255887">
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583747211700" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1583747211700">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583658255887" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583747211700" />
     <state x="770" y="234" key="RollbackChangesDialog" timestamp="1583658273335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -271,10 +274,11 @@
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583402601561" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$endless_loop.coverage" NAME="endless_loop Coverage Results" MODIFIED="1583735322007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day02" />
     <SUITE FILE_PATH="coverage/python$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1570462443764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day01_hello_world" />
     <SUITE FILE_PATH="coverage/python$data_type.coverage" NAME="data_type Coverage Results" MODIFIED="1583402691597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day01_hello_world" />
     <SUITE FILE_PATH="coverage/python$if.coverage" NAME="if Coverage Results" MODIFIED="1583485634287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day01_hello_world" />
-    <SUITE FILE_PATH="coverage/python$dataStruct.coverage" NAME="dataStruct Coverage Results" MODIFIED="1583494627390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day02" />
+    <SUITE FILE_PATH="coverage/python$dataStruct.coverage" NAME="dataStruct Coverage Results" MODIFIED="1583747211692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day02" />
     <SUITE FILE_PATH="coverage/python$df01.coverage" NAME="df01 Coverage Results" MODIFIED="1582967282664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_data_analysis/spark_pratice/day01" />
     <SUITE FILE_PATH="coverage/python$type_test.coverage" NAME="type_test Coverage Results" MODIFIED="1583485755454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_basic/day02" />
   </component>

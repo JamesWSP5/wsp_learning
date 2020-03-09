@@ -22,10 +22,10 @@ def file_opreate():
     文件操作  Read Write
     :return:None
     """
-    f = open("../source/in.txt", mode="r", encoding="utf-8")
+    f = open("../source/in.txt", mode="r")
     content = f.read()
     print(content)
-    f1 = open("../source/out.txt", mode="a+", encoding="utf-8")
+    f1 = open("../source/out.txt", mode="a+")
     f1.write(content)
     f.close()
 
