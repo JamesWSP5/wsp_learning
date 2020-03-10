@@ -5,8 +5,10 @@
 # 函数的参数
 
 # 1.位置参数
+
+
 def power(x):
     return x * x
 
 
-print power(5)
+print(power(5))
