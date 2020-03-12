@@ -27,3 +27,4 @@ for i, j in Dic.items():
 # 此方法可以遍历数组的下标和原素
 for i, j in enumerate(L):
     print(i, j)
+

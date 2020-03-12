@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12981938-10aa-4e54-9339-db635083e4d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day04/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day04/list_product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day04/slit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jj_and_wsp_program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jj_and_wsp_program.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day03/parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day03/parameters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/python_basic/day04/slit.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day04/slit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,29 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.list_product">
+  <component name="RunManager" selected="Python.dataStruct">
+    <configuration name="dataStruct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jj_and_wsp_program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python_basic/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day02/dataStruct.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="list_product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jj_and_wsp_program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dataStruct" />
         <item itemvalue="Python.list_product" />
         <item itemvalue="Python.slit" />
         <item itemvalue="Python.parameters" />
@@ -123,7 +145,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583809701770</updated>
-      <workItem from="1583809709041" duration="9164000" />
+      <workItem from="1583809709041" duration="11222000" />
+      <workItem from="1583980379324" duration="2259000" />
     </task>
     <servers />
   </component>
@@ -131,26 +154,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583839231062">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583995240539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583839231062" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583839231061">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583995240539" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583995240539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583839231061" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583839231061">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583995240539" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583995240538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583839231061" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583839231062">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583995240538" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583995240539">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583839231062" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1583812554826">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583995240539" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1583980396029">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583812554826" />
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583980396029" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583838285886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -160,5 +183,6 @@
     <SUITE FILE_PATH="coverage/jj_and_wsp_program$slit.coverage" NAME="slit Coverage Results" MODIFIED="1583838153772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day04" />
     <SUITE FILE_PATH="coverage/jj_and_wsp_program$list_product.coverage" NAME="list_product Coverage Results" MODIFIED="1583839231057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day04" />
     <SUITE FILE_PATH="coverage/jj_and_wsp_program$parameters.coverage" NAME="parameters Coverage Results" MODIFIED="1583833870681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day03" />
+    <SUITE FILE_PATH="coverage/jj_and_wsp_program$dataStruct.coverage" NAME="dataStruct Coverage Results" MODIFIED="1583980495759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day02" />
   </component>
 </project>
