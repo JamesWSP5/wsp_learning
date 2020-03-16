@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12981938-10aa-4e54-9339-db635083e4d1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/jj_and_wsp_program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jj_and_wsp_program.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day05/get_obj_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day05/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day05/object_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day05/property.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day04/slit.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day04/slit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/python_basic/day03/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day03/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,52 +40,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.dataStruct">
-    <configuration name="dataStruct" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="jj_and_wsp_program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python_basic/day02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day02/dataStruct.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="list_product" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="jj_and_wsp_program" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python_basic/day04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day04/list_product.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="parameters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.functions">
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jj_and_wsp_program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +54,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day03/parameters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day03/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="slit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_obj_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jj_and_wsp_program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,12 +71,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python_basic/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python_basic/day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day04/slit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day05/get_obj_info.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,12 +85,67 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jj_and_wsp_program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python_basic/day05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day05/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for model.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="jj_and_wsp_program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python_basic/day05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;model.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in model.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="jj_and_wsp_program" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/python_basic/day05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/python/python_basic/day05/model.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dataStruct" />
-        <item itemvalue="Python.list_product" />
-        <item itemvalue="Python.slit" />
-        <item itemvalue="Python.parameters" />
+        <item itemvalue="Python.functions" />
+        <item itemvalue="Python.get_obj_info" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python tests.pytest in model.py" />
+        <item itemvalue="Python tests.pytest for model.test" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +161,10 @@
       <updated>1583809701770</updated>
       <workItem from="1583809709041" duration="11222000" />
       <workItem from="1583980379324" duration="2259000" />
+      <workItem from="1584008444077" duration="6399000" />
+      <workItem from="1584087900563" duration="962000" />
+      <workItem from="1584162198745" duration="11024000" />
+      <workItem from="1584324351881" duration="599000" />
     </task>
     <servers />
   </component>
@@ -154,35 +172,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583995240539">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1584162289000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583995240539" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583995240539">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584162289000" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1584183536510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583995240539" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583995240538">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584183536510" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1584183536510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583995240538" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583995240539">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584183536510" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1584183536510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583995240539" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1583980396029">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584183536510" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1584183536510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583980396029" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583838285886">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584183536510" />
+    <state x="792" y="234" key="RollbackChangesDialog" timestamp="1584162266110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1583838285886" />
+    <state x="792" y="234" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584162266110" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1584175427876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584175427876" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1584013794297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584013794297" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jj_and_wsp_program$pytest_for_model_test.coverage" NAME="pytest for model.test Coverage Results" MODIFIED="1584162426955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
     <SUITE FILE_PATH="coverage/jj_and_wsp_program$slit.coverage" NAME="slit Coverage Results" MODIFIED="1583838153772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day04" />
     <SUITE FILE_PATH="coverage/jj_and_wsp_program$list_product.coverage" NAME="list_product Coverage Results" MODIFIED="1583839231057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day04" />
+    <SUITE FILE_PATH="coverage/jj_and_wsp_program$model.coverage" NAME="model Coverage Results" MODIFIED="1584166536750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
+    <SUITE FILE_PATH="coverage/jj_and_wsp_program$functions.coverage" NAME="functions Coverage Results" MODIFIED="1584183536505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day03" />
     <SUITE FILE_PATH="coverage/jj_and_wsp_program$parameters.coverage" NAME="parameters Coverage Results" MODIFIED="1583833870681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day03" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$dataStruct.coverage" NAME="dataStruct Coverage Results" MODIFIED="1583980495759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day02" />
+    <SUITE FILE_PATH="coverage/jj_and_wsp_program$dataStruct.coverage" NAME="dataStruct Coverage Results" MODIFIED="1584088259892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day02" />
+    <SUITE FILE_PATH="coverage/jj_and_wsp_program$get_obj_info.coverage" NAME="get_obj_info Coverage Results" MODIFIED="1584176754567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
+    <SUITE FILE_PATH="coverage/jj_and_wsp_program$object_test.coverage" NAME="object_test Coverage Results" MODIFIED="1584014371092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
+    <SUITE FILE_PATH="coverage/jj_and_wsp_program$pytest_in_model_py.coverage" NAME="pytest in model.py Coverage Results" MODIFIED="1584162529113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
   </component>
 </project>

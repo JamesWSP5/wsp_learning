@@ -37,3 +37,25 @@ print x, y
 
 result = move(100, 100, 60, math.pi / 6)
 print result
+
+# 匿名函数
+print list(map(lambda x: x * x, [1, 2, 3, 4, 5, 6, 7, 8, 9]))
+
+
+def is_odd(n):
+    return n % 2 == 1
+
+
+L = list(filter(is_odd, range(1, 20)))
+print L
+
+L = list(filter(lambda x: x % 2 == 1, range(1, 20)))
+print L
+
+# 偏函数 Python的functools模块提供了很多有用的功能，其中一个就是偏函数（Partial function）。
+# 要注意，这里的偏函数和数学意义上的偏函数不一样。00000
+# 在介绍函数参数的时候，我们讲到，通过设定参数的默认值，可以降低函数调用的难度。而偏函数也可以做到这一点。举例如下：
+# int()函数可以把字符串转换为整数，当仅传入字符串时，int()函数默认按十进制转换：
+
+i = int('1235', base=16)
+print i
