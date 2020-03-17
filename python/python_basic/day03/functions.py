@@ -4,11 +4,11 @@
 
 # 首先python有很多内置函数，ex:
 # 求绝对值函数
-print abs(100)
+print(abs(100))
 # 求最大值函数
-print max(1, 3)
+print(max(1, 3))
 # 数据类型转换
-print int('123')
+print(int('123'))
 
 
 # define functions
@@ -33,13 +33,13 @@ def move(x, y, step, angle=0):
 
 
 x, y = move(100, 100, 60, math.pi / 6)
-print x, y
+print(x, y)
 
 result = move(100, 100, 60, math.pi / 6)
-print result
+print(result)
 
 # 匿名函数
-print list(map(lambda x: x * x, [1, 2, 3, 4, 5, 6, 7, 8, 9]))
+print(list(map(lambda x: x * x, [1, 2, 3, 4, 5, 6, 7, 8, 9])))
 
 
 def is_odd(n):
@@ -47,10 +47,10 @@ def is_odd(n):
 
 
 L = list(filter(is_odd, range(1, 20)))
-print L
+print(L)
 
 L = list(filter(lambda x: x % 2 == 1, range(1, 20)))
-print L
+print(L)
 
 # 偏函数 Python的functools模块提供了很多有用的功能，其中一个就是偏函数（Partial function）。
 # 要注意，这里的偏函数和数学意义上的偏函数不一样。00000
@@ -58,4 +58,4 @@ print L
 # int()函数可以把字符串转换为整数，当仅传入字符串时，int()函数默认按十进制转换：
 
 i = int('1235', base=16)
-print i
+print(i)

@@ -20,7 +20,7 @@ class xiaoming(Student):
 if __name__ == '__main__':
     xiaoming = xiaoming('12')
     xiaoming.work()
-    print xiaoming.number
+    print(xiaoming.number)
 '''
 静态语言和动态语言
     静态语言：

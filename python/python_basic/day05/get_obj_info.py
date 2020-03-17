@@ -4,9 +4,9 @@
 # 获取对象类型
 from types import MethodType
 
-print type('a')
+print(type('a'))
 # 获取对象所有可用的方法
-print dir('abc')
+print(dir('abc'))
 
 
 # 当我们创建一个类的时候可以给该类绑定任意的方法和属性，这就是动态语言的灵活性
@@ -18,7 +18,7 @@ class Student(object):
 # 给实例绑定一个属性
 s = Student()
 s.name = 'Michael'
-print s.name
+print(s.name)
 
 
 # 给实例绑定一个方法
@@ -29,7 +29,7 @@ def set_age(self, age):
 s.age = MethodType(set_age, s)  # 在加入__slots__时会报错，Student' object has no attribute 'set_age',这里发现一个有意思的现象，
 # 为了防止用户绑定属性，因为无法识别.后面的是想要绑定方法还是属性，所以绑定的方法必须时个属性重名的，否则无法绑定。
 s.age(25)
-print s.age
+print(s.age)
 # print s.age
 # # UnboundMethodType(set_age, s)
 # s.set_age(35)
