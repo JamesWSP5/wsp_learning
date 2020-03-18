@@ -1,0 +1,35 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="TYPE_ANNOTATION_LOCAL_DEFINITION" value="true" />
+      <option name="TYPE_ANNOTATION_EXCLUDE_IN_TEST_SOURCES" value="true" />
+    </ScalaCodeStyleSettings>
+    <codeStyleSettings language="Scala">
+      <option name="FIELD_ANNOTATION_WRAP" value="0" />
+      <arrangement>
+        <groups>
+          <group>
+            <type>DEPENDENT_METHODS</type>
+            <order>DEPTH_FIRST</order>
+          </group>
+          <group>
+            <type>SCALA_KEEP_JAVA_GETTERS_SETTERS_TOGETHER</type>
+            <order>KEEP</order>
+          </group>
+          <group>
+            <type>SCALA_KEEP_SCALA_GETTERS_SETTERS_TOGETHER</type>
+            <order>KEEP</order>
+          </group>
+          <group>
+            <type>SCALA_SPLIT_BY_IMPLICITS</type>
+            <order>KEEP</order>
+          </group>
+          <group>
+            <type>SCALA_SPLIT_BY_EXPRESSIONS</type>
+            <order>KEEP</order>
+          </group>
+        </groups>
+      </arrangement>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
