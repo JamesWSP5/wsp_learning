@@ -2,29 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12981938-10aa-4e54-9339-db635083e4d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/big_data/py/aa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/big_data/py/common_job.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/big_data/py/dftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/big_data/py/points.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/big_data/py/wechat_share.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/extends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/order_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jj_and_wsp_program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jj_and_wsp_program.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/enum_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/my_orm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/yuan_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scala/src/hello_scala.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scala/src/scala_number_type.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/big_data/py/说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/big_data/py/说明.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day01_hello_world/data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day01_hello_world/data_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day02/dataStruct.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day02/dataStruct.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day03/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day03/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day05/get_obj_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day05/get_obj_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day05/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day05/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day05/property.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day05/property.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big_data/py/common_job.py" beforeDir="false" afterPath="$PROJECT_DIR$/big_data/py/common_job.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big_data/py/dftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big_data/py/points.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/big_data/py/wechat_share.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/python_basic/day06/order_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day06/order_class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,6 +32,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Yv4OVQvdpph3hkNoBJhPRvHbpi" />
   <component name="ProjectViewState">
@@ -48,15 +48,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/big_data/py" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\gitpycode\jj_and_wsp_program\big_data\py" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dftest">
+  <component name="RunManager">
     <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jj_and_wsp_program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="extends" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="enum_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jj_and_wsp_program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,7 +137,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day06/extends.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day06/enum_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="order_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="yuan_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jj_and_wsp_program" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +159,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day06/order_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/python_basic/day06/yuan_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,15 +168,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.dftest" />
-        <item itemvalue="Python.common_job" />
-        <item itemvalue="Python.aa" />
-        <item itemvalue="Python.order_class" />
-        <item itemvalue="Python.extends" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -195,6 +187,8 @@
       <workItem from="1584324351881" duration="7627000" />
       <workItem from="1584348615428" duration="1036000" />
       <workItem from="1584349784512" duration="2208000" />
+      <workItem from="1584435760628" duration="7471000" />
+      <workItem from="1584519990623" duration="39000" />
     </task>
     <servers />
   </component>
@@ -210,34 +204,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1584350585162" />
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584436031639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584436031639" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1584162289000">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584162289000" />
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom" timestamp="1584435829397">
+    <state width="1877" height="337" key="GridCell.Tab.0.bottom" timestamp="1584444282328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584435829397" />
-    <state width="1877" height="337" key="GridCell.Tab.0.center" timestamp="1584435829397">
+    <state width="1877" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584444282328" />
+    <state width="1877" height="337" key="GridCell.Tab.0.center" timestamp="1584444282328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584435829397" />
-    <state width="1877" height="337" key="GridCell.Tab.0.left" timestamp="1584435829397">
+    <state width="1877" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584444282328" />
+    <state width="1877" height="337" key="GridCell.Tab.0.left" timestamp="1584444282328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584435829397" />
-    <state width="1877" height="337" key="GridCell.Tab.0.right" timestamp="1584435829397">
+    <state width="1877" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584444282328" />
+    <state width="1877" height="337" key="GridCell.Tab.0.right" timestamp="1584444282328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584435829397" />
+    <state width="1877" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584444282328" />
     <state x="792" y="234" key="RollbackChangesDialog" timestamp="1584162266110">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="792" y="234" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584162266110" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1584340388291">
+    <state x="463" y="157" key="SettingsEditor" timestamp="1584520013195">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584340388291" />
+    <state x="463" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584520013195" />
     <state x="667" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1584349911981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -246,24 +244,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584013794297" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$dftest.coverage" NAME="dftest Coverage Results" MODIFIED="1584435829390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/big_data/py" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$model.coverage" NAME="model Coverage Results" MODIFIED="1584166536750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$dataStruct.coverage" NAME="dataStruct Coverage Results" MODIFIED="1584088259892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day02" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$object_test.coverage" NAME="object_test Coverage Results" MODIFIED="1584014371092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$pytest_in_model_py.coverage" NAME="pytest in model.py Coverage Results" MODIFIED="1584162529113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$order_class.coverage" NAME="order_class Coverage Results" MODIFIED="1584341085438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day06" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$common_job.coverage" NAME="common_job Coverage Results" MODIFIED="1584435808471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/big_data/py" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$aa.coverage" NAME="aa Coverage Results" MODIFIED="1584342181454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/big_data/py" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$pytest_for_model_test.coverage" NAME="pytest for model.test Coverage Results" MODIFIED="1584162426955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$slit.coverage" NAME="slit Coverage Results" MODIFIED="1583838153772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day04" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$list_product.coverage" NAME="list_product Coverage Results" MODIFIED="1583839231057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day04" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$property.coverage" NAME="property Coverage Results" MODIFIED="1584340749884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$functions.coverage" NAME="functions Coverage Results" MODIFIED="1584340599856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day03" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$data_type.coverage" NAME="data_type Coverage Results" MODIFIED="1584340724882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day01_hello_world" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$parameters.coverage" NAME="parameters Coverage Results" MODIFIED="1583833870681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day03" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$get_obj_info.coverage" NAME="get_obj_info Coverage Results" MODIFIED="1584176754567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day05" />
-    <SUITE FILE_PATH="coverage/jj_and_wsp_program$extends.coverage" NAME="extends Coverage Results" MODIFIED="1584340766219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/python_basic/day06" />
   </component>
 </project>
