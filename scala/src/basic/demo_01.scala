@@ -1,10 +1,12 @@
+package basic
+
 import java.math.BigInteger
 
-class day01 {
+class demo_01 {
 
 }
 
-object day01 {
+object demo_01 {
   //  scala对变量定义的关键字有两个，val,var，val为不可变变量，一旦初始化，后面不可再对该变量进行更改，
   //  如果要保证你的数据安全确定不会发生改变就尽可能把变量类型定义为val,类似与java中的final变量。
   val msg_1 = "你好，scala"
