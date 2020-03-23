@@ -2,9 +2,6 @@ package basic
 
 import java.math.BigInteger
 
-class demo_02 {
-
-}
 
 /*
   scala中使用new实例化对象，实例化过程中。实例化的过程中可以用值或者类型使对象参数化（parameterize）,

@@ -1,9 +1,5 @@
 package basic
 
-class demo_03 {
-
-}
-
 object demo_03 {
   /*
 面向函数编程的重要理念是方法没有副作用。

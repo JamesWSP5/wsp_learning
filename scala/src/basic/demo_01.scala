@@ -2,9 +2,7 @@ package basic
 
 import java.math.BigInteger
 
-class demo_01 {
 
-}
 
 object demo_01 {
   //  scala对变量定义的关键字有两个，val,var，val为不可变变量，一旦初始化，后面不可再对该变量进行更改，
