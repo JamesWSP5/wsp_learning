@@ -24,6 +24,11 @@ object demo_03 {
   val join_list = 1 :: 2 :: 3 :: 4 :: Nil
   println(join_list)
 
+  val words = List("hello","scala")
+  val map_list  = words map(_.toList)
+  val flatmap_list = words flatMap (_.toList)
+  println(map_list)
+  println(flatmap_list)
   /*List类为什么没有append操作，随着列表增长，append的耗时是线性增长的，使用::作前缀仅耗费固定的时间，
    如果想用添加元素来构建列表，可以先把元素前缀进去，然后调用reverse方法。或者使用ListBuffer一种可以提供append操作的可变列表，完成之后调用to_list方法
   * */
