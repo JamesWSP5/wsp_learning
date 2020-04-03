@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12981938-10aa-4e54-9339-db635083e4d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/Hello.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/enum_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/my_orm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/python_basic/day06/yuan_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/src/hello_scala.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scala/src/scala_number_type.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/big_data/py/common_job.py" beforeDir="false" afterPath="$PROJECT_DIR$/big_data/py/common_job.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/big_data/py/dftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big_data/py/points.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/big_data/py/wechat_share.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/python_basic/day06/order_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/python_basic/day06/order_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/out/production/scala/META-INF/scala.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/src/basic/demo_09.scala" beforeDir="false" afterPath="$PROJECT_DIR$/scala/src/basic/demo_09.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scala/src/basic/demo_10.scala" beforeDir="false" afterPath="$PROJECT_DIR$/scala/src/basic/demo_10.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +49,7 @@
       <recent name="D:\gitpycode\jj_and_wsp_program\big_data\py" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.aa">
     <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="jj_and_wsp_program" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +181,48 @@
       <workItem from="1584349784512" duration="2208000" />
       <workItem from="1584435760628" duration="7471000" />
       <workItem from="1584519990623" duration="39000" />
+      <workItem from="1585798999054" duration="876000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Inspections" timestamp="1584342705163">
@@ -236,6 +265,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584520013195" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1585799051758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585799051758" />
     <state x="667" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1584349911981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
