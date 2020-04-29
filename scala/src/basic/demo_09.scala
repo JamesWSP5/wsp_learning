@@ -12,7 +12,6 @@ object demo_09 {
   private def processLine(filename: String, width: Int, line: String) = {
     if ((line.length > width))
       println(filename + ":" + line.trim)
-
   }
 
   def processFile(filename: String, width: Int): Unit = {
