@@ -7,16 +7,5 @@
       <option name="TYPE_ANNOTATION_UNDERSCORE_PARAMETER" value="true" />
       <option name="TYPE_ANNOTATION_EXCLUDE_IN_TEST_SOURCES" value="true" />
     </ScalaCodeStyleSettings>
-    <codeStyleSettings language="Scala">
-      <option name="FIELD_ANNOTATION_WRAP" value="0" />
-      <arrangement>
-        <groups>
-          <group>
-            <type>DEPENDENT_METHODS</type>
-            <order>DEPTH_FIRST</order>
-          </group>
-        </groups>
-      </arrangement>
-    </codeStyleSettings>
   </code_scheme>
 </component>
