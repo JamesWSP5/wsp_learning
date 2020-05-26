@@ -24,11 +24,11 @@ object model_match extends App {
     for (file <- listFiles; if file.getName.matches(query))
       yield file
 
-  def filesMatching(query:String,matcher:(String,String)=>Boolean)={
+  def filesMatching(query: String, matcher: (String, String) => Boolean) = {
     for (file <- listFiles; if file.getName.matches(query))
       yield file
   }
 
 
-
 }
+

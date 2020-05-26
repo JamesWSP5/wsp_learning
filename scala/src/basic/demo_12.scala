@@ -2,9 +2,6 @@ package basic
 
 import scala.collection.mutable.ArrayBuffer
 
-class demo_12 {
-demo_12.a
-}
 
 object demo_12 {
 
